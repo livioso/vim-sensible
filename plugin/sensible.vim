@@ -90,4 +90,9 @@ endif
 
 inoremap <C-U> <C-G>u<C-U>
 
+" all fine but this:
+set number
+language C
+set shortmess+=I " remove startup message
+
 " vim:set ft=vim et sw=2:
