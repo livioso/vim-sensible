@@ -94,5 +94,7 @@ inoremap <C-U> <C-G>u<C-U>
 set number
 language C
 set shortmess+=I " remove startup message
+nnoremap <CR> :noh<CR><CR>
+set background=dark
 
 " vim:set ft=vim et sw=2:
