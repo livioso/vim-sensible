@@ -96,5 +96,6 @@ language C
 set shortmess+=I " remove startup message
 nnoremap <CR> :noh<CR><CR>
 set background=dark
+colorscheme peachpuff
 
 " vim:set ft=vim et sw=2:
